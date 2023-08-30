@@ -6,9 +6,6 @@ public class Fahrzeug {
     protected int baujahr;
 
 
-    public Fahrzeug() {
-
-    }
     public Fahrzeug(String hersteller, String modell, int baujahr) {
         this.hersteller = hersteller;
         this.modell = modell;
